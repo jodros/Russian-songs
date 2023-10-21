@@ -1,0 +1,19 @@
+forprint = true
+papersize = "a5"
+
+[book]
+title = "Русские народные песни"
+#author = "" 
+imprint = "студенческое издательство"
+language = "ru"
+
+[alingments]
+toc = "left"
+imprint = "left"
+folio = "mirror"
+
+[fonts]
+toc = ["Cormorant Unicase"]
+main = ["", "10.5pt"]
+imprint = ["", "10pt", 100]
+
