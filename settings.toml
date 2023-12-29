@@ -1,4 +1,6 @@
-forprint = true
+forprint = false
+balanced = false
+noskip = true
 papersize = "a5"
 
 [book]
@@ -16,4 +18,3 @@ folio = "mirror"
 toc = ["Cormorant Unicase"]
 main = ["", "10.5pt"]
 imprint = ["", "10pt", 100]
-
